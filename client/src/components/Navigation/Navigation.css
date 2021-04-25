@@ -1,0 +1,32 @@
+.navigation {
+    background-color: #5941A9;
+    height: 6vh;
+}
+
+.menu-link {
+    list-style-type: none;
+    display: inline;
+    color: white;
+    text-decoration: none;
+}
+
+.title {
+    margin-left: 3%;
+    line-height: 6vh;
+    font-size: 25px;
+    font-weight: 900;
+    color: whitesmoke;
+}
+
+.register-link {
+    list-style-type: none;
+    float: right;
+    line-height: 6vh;
+    margin-right: 3%;
+    color: whitesmoke;
+    
+}
+
+.reg-log {
+    display: inline;
+}

@@ -1,0 +1,35 @@
+.add-hacker {
+    border: 2px solid blue;
+    max-width: 600px;
+    margin: 2% auto;
+    padding: 2%;
+    text-align: center;
+    border-radius: 7px;
+}
+
+.enter-hacker-details {
+    margin-bottom: 3%;
+    color: white;
+    background-color: #5941A9;
+    padding: 2%;
+    border-radius: 7px;
+}
+.hacker-input {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    padding: 2%;
+    margin-bottom: 3%;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+.hacker-button {
+    background-color: #5941A9;
+    color: white;
+    font-weight: 700;
+}
+
+.hacker-button:hover {
+    cursor: pointer;
+}

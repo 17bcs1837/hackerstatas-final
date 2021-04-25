@@ -1,0 +1,32 @@
+.hacker-list {
+    max-width: 80%;
+    margin: 2% auto;
+    border: 1px solid rgb(69, 113, 255);
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 7px;
+    padding: 3%;
+}
+
+.hacker {
+    outline: grey;
+    width: 20%;
+    margin: 1%;
+    margin-left: 3.1%;
+    text-align: center;
+    border-radius: 7px;
+    border: 2px solid rgb(180, 221, 255);
+    background-color: honeydew;
+}
+
+
+.avatar {
+    width: 50%;
+}
+.avatar:hover {
+    cursor: pointer;
+}
+
+.hacker-mini {
+    background-color: rgb(221, 255, 221);   
+}
